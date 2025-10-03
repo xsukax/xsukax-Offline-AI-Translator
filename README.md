@@ -192,7 +192,7 @@ source venv/bin/activate
 ### Step 3: Install Dependencies
 
 ```bash
-pip install torch transformers flask
+pip install torch transformers flask hf_xet
 ```
 
 **Note**: For GPU acceleration (optional), install PyTorch with CUDA support following the [official PyTorch installation guide](https://pytorch.org/get-started/locally/).
