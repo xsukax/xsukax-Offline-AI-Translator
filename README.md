@@ -164,7 +164,6 @@ sequenceDiagram
 - `torch` >= 1.9.0
 - `transformers` >= 4.20.0
 - `flask` >= 2.0.0
-- `hf_xet`
 
 ## Installation
 
@@ -192,7 +191,7 @@ source venv/bin/activate
 ### Step 3: Install Dependencies
 
 ```bash
-pip install torch transformers flask hf_xet
+pip install torch transformers flask
 ```
 
 **Note**: For GPU acceleration (optional), install PyTorch with CUDA support following the [official PyTorch installation guide](https://pytorch.org/get-started/locally/).
