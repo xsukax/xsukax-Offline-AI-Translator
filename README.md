@@ -164,6 +164,7 @@ sequenceDiagram
 - `torch` >= 1.9.0
 - `transformers` >= 4.20.0
 - `flask` >= 2.0.0
+- `hf_xet`
 
 ## Installation
 
